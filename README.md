@@ -1,0 +1,1 @@
+This repository contains the Jupyter Notebook used to complete Assignment 01 of the EN3160 Image Processing and Machine Vision module, along with the images used in the assignment. The notebook was developed and incrementally updated using Google Colab throughout the assignment.
